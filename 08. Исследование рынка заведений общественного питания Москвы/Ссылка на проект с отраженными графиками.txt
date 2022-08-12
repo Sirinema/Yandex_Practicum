@@ -1,0 +1,1 @@
+Ссылк ана проект с отраженными графиками: https://nbviewer.org/github/Sirinema/Yandex_Practicum/blob/main/8.%20Исследование%20рынка%20заведений%20общественного%20питания%20Москвы/cafe_robot.ipynb

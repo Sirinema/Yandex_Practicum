@@ -1,0 +1,1 @@
+Ссылка на проект с отраженными графиками: https://nbviewer.org/github/Sirinema/Yandex_Practicum/blob/main/9.Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении/sales_funnels.ipynb
