@@ -1,0 +1,1 @@
+Ссылка на проект с отраженными графиками: https://nbviewer.org/github/Sirinema/Yandex_Practicum/blob/main/11.%20Прогнозирование%20вероятности%20оттока%20пользователей%20для%20фитнес-центров/gym%20churn.ipynb
